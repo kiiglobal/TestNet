@@ -2,7 +2,7 @@
 
 **Open your KII Core**
 
-**Edit your kii.cnof file:**
+**Edit your kii.conf file:**
 
 
 *testnet=1*
