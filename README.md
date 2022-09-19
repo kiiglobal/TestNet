@@ -7,9 +7,9 @@
 
 *testnet=1*
 
-*rpcuser=rpc_kii*
+*rpcuser=your-user*
 
-*rpcpassword=dR2oBQ3K1zYMZQtJFZeAerhWxaJ5Lqeq9J2*
+*rpcpassword=your-password*
 
 *rpcallowip=127.0.0.1*
 
@@ -31,5 +31,5 @@
 
 
 **Save & Close**
-
+**Reboot your KII core**
 **Now you are in Kii TestNet**
