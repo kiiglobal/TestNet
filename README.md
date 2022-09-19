@@ -31,5 +31,7 @@
 
 
 **Save & Close**
+
 **Reboot your KII core**
+
 **Now you are in Kii TestNet**
